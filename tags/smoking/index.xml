@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>bbq on BBQ i Grill Blog</title>
-    <link>https://bbqhrvatska.com/tags/bbq/</link>
-    <description>Recent content in bbq on BBQ i Grill Blog</description>
+    <title>smoking on BBQ i Grill Blog</title>
+    <link>https://bbqhrvatska.com/tags/smoking/</link>
+    <description>Recent content in smoking on BBQ i Grill Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 29 Jan 2021 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://bbqhrvatska.com/tags/bbq/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://bbqhrvatska.com/tags/smoking/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       
       <guid>https://bbqhrvatska.com/post/chapter-3/</guid>
       <description>Performanse uradi sam smokera Post o performansama i cijeni će biti malo kraći jer vjerujem da je prethodni bio dosta iscrpan s detaljima. Uglavnom kad sam smoker završio, slijedio je test u kojem sam htio provjeriti koliko dugo i stabilno smoker može držati temperaturu. Pokazalo se da je ovakav terakota / šamot smoker vrlo zahvalan jer sam s malom količinom briketa (možda 10 kom) postigao temperaturu od 130 - 140 celzijevih stupnjeva i držao je stabilno 90 min nakon čega je opadanje vrlo sporo (recimo 1 stupanj u 5 min).</description>
-    </item>
-    
-    <item>
-      <title>Početak: Roštilj, roštilj a kakav je BBQ?</title>
-      <link>https://bbqhrvatska.com/post/chapter-1/</link>
-      <pubDate>Fri, 22 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://bbqhrvatska.com/post/chapter-1/</guid>
-      <description>Roštilj odnosno grill Roštilj za mene simbolizira ručak nedjeljom i obiteljsko okupljanje. Naravno i dobar dio nekakvih proslava je počeo ili završio roštiljanjem. Carsko, vratina, piletina, šnicle i ponešto povrća iznad žara uveseljavalo uvijek izaziva osmijeh na licu i pojačano izlučivanje sline. Sam čin loženja vatre i iščekivanja savršenog žara budi nešto praiskonsko u nama pa se u mom slučaju ne mali broj puta duže ložilo nego peklo :) Dim i okus pečenog mesa i povrća meni je bio ne zamjenjiv.</description>
     </item>
     
   </channel>
