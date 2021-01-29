@@ -4,20 +4,34 @@
   
   <url>
     <loc>https://bbqhrvatska.com/</loc>
-    <lastmod>2021-01-28T00:00:00+00:00</lastmod>
+    <lastmod>2021-01-29T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://bbqhrvatska.com/post/chapter-2/</loc>
-    <lastmod>2021-01-28T00:00:00+00:00</lastmod>
+    <loc>https://bbqhrvatska.com/post/chapter-3/</loc>
+    <lastmod>2021-01-29T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://bbqhrvatska.com/post/</loc>
+    <lastmod>2021-01-29T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://bbqhrvatska.com/tags/bbqhrvatska/</loc>
+    <lastmod>2021-01-28T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://bbqhrvatska.com/tags/bbqsmoker/</loc>
     <lastmod>2021-01-28T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -32,6 +46,13 @@
   
   <url>
     <loc>https://bbqhrvatska.com/tags/</loc>
+    <lastmod>2021-01-28T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://bbqhrvatska.com/post/chapter-2/</loc>
     <lastmod>2021-01-28T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
