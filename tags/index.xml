@@ -6,7 +6,7 @@
     <description>Recent content in Tags on BBQ i Grill Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 29 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Feb 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://bbqhrvatska.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,36 @@
     <item>
       <title>bbq</title>
       <link>https://bbqhrvatska.com/tags/bbq/</link>
-      <pubDate>Fri, 29 Jan 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 13 Feb 2021 00:00:00 +0000</pubDate>
       
       <guid>https://bbqhrvatska.com/tags/bbq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>chicken</title>
+      <link>https://bbqhrvatska.com/tags/chicken/</link>
+      <pubDate>Sat, 13 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bbqhrvatska.com/tags/chicken/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>smokedchicken</title>
+      <link>https://bbqhrvatska.com/tags/smokedchicken/</link>
+      <pubDate>Sat, 13 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bbqhrvatska.com/tags/smokedchicken/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>smoking</title>
+      <link>https://bbqhrvatska.com/tags/smoking/</link>
+      <pubDate>Sat, 13 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bbqhrvatska.com/tags/smoking/</guid>
       <description></description>
     </item>
     
@@ -35,15 +62,6 @@
       <pubDate>Fri, 29 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://bbqhrvatska.com/tags/performanse/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>smoking</title>
-      <link>https://bbqhrvatska.com/tags/smoking/</link>
-      <pubDate>Fri, 29 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://bbqhrvatska.com/tags/smoking/</guid>
       <description></description>
     </item>
     
